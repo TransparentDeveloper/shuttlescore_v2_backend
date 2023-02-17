@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ShuttlescoreV2BackendApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(ShuttlescoreV2BackendApplication.class, args);
 	}
-
 }
